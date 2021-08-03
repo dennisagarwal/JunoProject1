@@ -1,0 +1,63 @@
+h1 {
+ font-size: 6rem;
+ color: #FFFFFF;
+ font-family: "Montserrat";
+ text-shadow: 3px 0  #753422;
+}
+
+body {
+  text-align: center;
+  background-color: #C68B59;
+}
+
+footer {
+  font-family: sans-serif;
+  color: #DBEDF3;
+}
+
+.w {
+ background-image: url("angry.gif");
+}
+
+.a {
+background-image: url("attention.gif");
+}
+
+.s {
+background-image: url("sad.gif");
+}
+
+.d {
+background-image: url("surprise.gif");
+}
+
+.j {
+background-image: url("hungry.gif");
+}
+
+.k {
+background-image: url("roar.gif");
+}
+
+.l {
+background-image: url("kitty.gif");
+}
+
+.m {
+background-image: url("happy.gif");
+}
+
+.frame {
+  margin:auto;
+}
+
+.catMood {
+  border: 15px solid #753422;
+  font-size: 4rem;
+  font-family: "Montserrat";
+  color: #753422;
+  border-radius: 100%;
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
